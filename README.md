@@ -18,6 +18,6 @@ I'm Azim Masoudinejad, Site Reliability Engineer ♾️.
 
 ## &#x1f4c8; My GitHub Stats
 
-<a href="https://github.com/ehsanmsd/ehsanmsd">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ehsanmsd&hide=java,html&title_color=000000&text_color=000000" />
+<a href="https://github.com/azimmsd/azimmsd">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=azimmsd&hide=java,html&title_color=000000&text_color=000000" />
 </a>
