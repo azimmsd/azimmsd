@@ -6,7 +6,7 @@ I'm Azim Masoudinejad, Site Reliability Engineer ♾️.
 - [Mail](mailto:azimmasoudi@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/azim-masoudi/)
 - [Twitter](https://twitter.com/_ehsanmasoudi)
-- [Blog](https://virgool.io/@ehsanmasoudi)
+- [Blog](https://cherrypicked.me/)
 
 ## 📕 Latest Blog Posts
 
